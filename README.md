@@ -11,4 +11,3 @@ Projects:
 - routegame.cpp : try to complete the puzzle  by making the "snake" go through every point of the grid without passing on the same point and avoiding the obstacles. Searching for an algorithm that finds if there is a solution and what it is.
 - palindromi.sh : bash script that checks if an input given string is palindrome (ignoring spaces). 
 - nregine.cpp : program that finds all solutions to the n queen problem using backtracking in c++. Default value of N variable (that sets an NxN chessboard) is 8 but can be changed within the source code. Note that for 1<N<4 there are no solutions.
--...
